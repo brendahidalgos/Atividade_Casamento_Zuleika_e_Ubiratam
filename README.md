@@ -3,10 +3,6 @@
 Projeto desenvolvido como parte da atividade prática do curso técnico em **Desenvolvimento de Sistemas – EAD**.  
 O objetivo foi simular a criação de uma página web temática para um evento de casamento, utilizando HTML e CSS com foco em estruturação e estética visual.
 
-## 📷 Visão geral
-
-![Screenshot do site](./0b3ae5c6-7401-46b7-9569-92500838092c.png)
-
 ## 🎯 Objetivos da atividade
 
 - Praticar a estruturação de conteúdo em colunas com HTML
