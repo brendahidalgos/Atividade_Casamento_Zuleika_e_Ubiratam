@@ -24,7 +24,7 @@ Cada seção apresenta imagens relacionadas à respectiva etapa do casamento, co
 
 - HTML5  
 - CSS3 (com estilização personalizada)  
-- Layout em colunas com `flexbox`  
+- Framework W3Schools
 
 ## ⚠️ Aviso
 
