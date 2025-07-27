@@ -1,2 +1,35 @@
-# Atividade_Casamento_Zuleika_e_Ubiratam
-Atividade do meu curso técnico de Desenvolvimento de Sistemas EAD.
+# 💍 Zuleika & Ubiratam – Página Comemorativa
+
+Projeto desenvolvido como parte da atividade prática do curso técnico em **Desenvolvimento de Sistemas – EAD**.  
+O objetivo foi simular a criação de uma página web temática para um evento de casamento, utilizando HTML e CSS com foco em estruturação e estética visual.
+
+## 📷 Visão geral
+
+![Screenshot do site](./0b3ae5c6-7401-46b7-9569-92500838092c.png)
+
+## 🎯 Objetivos da atividade
+
+- Praticar a estruturação de conteúdo em colunas com HTML
+- Trabalhar com organização visual por seções temáticas
+- Utilizar imagens com atenção à atribuição de direitos autorais
+- Aplicar estilos visuais consistentes (cores, bordas, alinhamento)
+
+## 📁 Seções da página
+
+- **Pré-Casamento**  
+- **Dia da Noiva**  
+- **Cerimônia**  
+- **Festa**  
+- **Lua de Mel**  
+
+Cada seção apresenta imagens relacionadas à respectiva etapa do casamento, com identificação da origem (Pinterest) e aviso de direitos autorais.
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5  
+- CSS3 (com estilização personalizada)  
+- Layout em colunas com `flexbox`  
+
+## ⚠️ Aviso
+
+As imagens utilizadas são ilustrativas e foram retiradas do Pinterest. Os direitos autorais pertencem aos autores originais.
